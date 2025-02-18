@@ -22,7 +22,7 @@
 
 <p align="left">
 <a href="https://dev.to/mykyta-android-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mykyta-android-dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikita-popello-9145a0332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-popello-9145a0332" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mykyta-popello-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-popello-9145a0332" height="30" width="40" /></a>
 <a href="https://medium.com/@nikita.popello.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikita.popello.dev" height="30" width="40" /></a>
 </p>
 
